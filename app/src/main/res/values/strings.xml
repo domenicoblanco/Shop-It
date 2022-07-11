@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">Shop it</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email" translatable="false">E-mail</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="check_inbox">Check your inbox!</string>
+    <string name="sign_out_btn">Sign Out</string>
+    <string name="wishlist_btn">Wishlist</string>
+    <string name="please_verify_email">Please verify first your email</string>
+    <string name="product_delete">Delete product</string>
+    <string name="product_save">Save product edits</string>
+    <string name="product_edit">Edit product</string>
+    <string name="product_wish">Save on wishlist</string>
+    <string name="products_go_back">Go back</string>
+    <string name="products_fab_button">Add product</string>
+    <string name="empty_wishlist">Seems that your wishlist is empty :c</string>
+    <string name="error_during_add_new_product">Something went wrong :/</string>
+    <string name="new_product_name">Name</string>
+    <string name="new_product_description">Description</string>
+    <string name="new_product_price">Price</string>
+    <string name="new_product_default_price">0</string>
+    <string name="new_product_image">Add image</string>
+    <string name="new_product_submit">Add product</string>
+    <string name="new_product_selected_image">Selected image</string>
+    <string name="product_currency" translatable="false">€</string>
+</resources>

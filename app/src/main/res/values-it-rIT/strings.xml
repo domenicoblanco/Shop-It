@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Accedi</string>
+    <string name="register">Registrazione</string>
+    <string name="auth_failed">Autenticazione fallita</string>
+    <string name="registration_failed">Registrazione fallita</string>
+    <string name="check_inbox">Controlla la mail!</string>
+    <string name="sign_out_btn">Disconnetti</string>
+    <string name="wishlist_btn">Lista dei desideri</string>
+    <string name="please_verify_email">Verifica prima la tua email</string>
+    <string name="product_delete">Elimina prodotto</string>
+    <string name="product_save">Salva le modifiche effettuate</string>
+    <string name="product_edit">Modifica prodotto</string>
+    <string name="product_wish">Salva nella wishlist</string>
+    <string name="products_go_back">Torna indietro</string>
+    <string name="products_fab_button">Aggiungi prodotto</string>
+    <string name="empty_wishlist">La tua wishlist è vuota :c</string>
+    <string name="error_during_add_new_product">Qualcosa è andato storto :/</string>
+    <string name="new_product_name">Nome</string>
+    <string name="new_product_description">Descrizione</string>
+    <string name="new_product_price">Prezzo</string>
+    <string name="new_product_default_price">0</string>
+    <string name="new_product_image">Aggiungi immagine</string>
+    <string name="new_product_submit">Aggiungi prodotto</string>
+    <string name="new_product_selected_image">Immagine selezionata</string>
+</resources>
